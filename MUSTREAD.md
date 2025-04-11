@@ -1,0 +1,1 @@
+Although Eaglercraft from Theo-coder-ctrl has many similarities to Eaglercraft from Lax1dude, it is still a distinct and separate work of code.  Eaglercraft 1.21.1 from Theo-coder-ctrl is not the same as Eaglercraft from Lax1dude.
